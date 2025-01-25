@@ -1,7 +1,7 @@
 # Credit_Card_Dashboard
 This Power BI dashboard provides an in-depth analysis of credit card transaction data, offering insights into revenue trends, customer behaviors, and performance metrics across various dimensions. Below is an overview of the key sections of the dashboard and what they represent.
 <br/>
-Interactive view can be found on https://aymang.streamlit.app </br>
+Interactive view can be found on [https://aymang.streamlit.app](https://aymang.streamlit.app/Credit_Card_Dashboard) </br>
 
   <h2>1. Key Performance Metrics</h2>
     <ul>
